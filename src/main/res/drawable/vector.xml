@@ -1,0 +1,67 @@
+<!-- Vector -->
+    <!-- drawable/vector.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="239.09dp"
+android:height="188.06dp"
+android:viewportWidth="239.09"
+android:viewportHeight="188.06"
+    >
+
+<group>
+
+    <clip-path
+        android:pathData="M0 0H239.085V188.063H0V0Z"
+        />
+
+    <group
+        android:translateX="1"
+        android:translateY="0"
+        android:pivotX="119.543"
+        android:pivotY="94.031"
+        android:scaleX="2"
+        android:scaleY="2"
+        android:rotation="90"
+        >
+
+        <path
+            android:pathData="M0 0V188.063H239.085V0"
+            >
+
+            <aapt:attr name="android:fillColor">
+
+                <gradient
+                    android:type="linear"
+                    android:startX="59.771"
+                    android:startY="94.031"
+                    android:endX="179.314"
+                    android:endY="94.031"
+                    >
+
+                    <item
+                        android:color="#C0A2E8"
+                        android:offset="0"
+                        />
+
+                    <item
+                        android:color="#C896E2"
+                        android:offset="0.495"
+                        />
+
+                    <item
+                        android:color="#EFB69D"
+                        android:offset="0.969"
+                        />
+
+                </gradient>
+
+            </aapt:attr>
+
+        </path>
+
+    </group>
+
+</group>
+
+</vector>
